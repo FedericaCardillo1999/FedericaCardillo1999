@@ -9,40 +9,40 @@
 
 ---
 
-<img src="assets/round-1-track.svg" alt="Round 1 — Track" width="100%" />
+<img src="assets/round-1-track.svg" alt="FORMATION LAP" width="100%" />
 
-🏎️ **Preprocessing of 3T data**
-Pipeline for preparing standard-field (3T) MRI/fMRI data for analysis: motion correction, distortion correction, and coregistration, the foundation everything downstream is built on.
+🏎️ **Preprocessing of 3T structural and functional MRI**
+Preprocessing pipeline for 3T structural and functional MRI data including denoising, motion correction, coregistration and surface parcellation.
 
-[View repository →](#)
+[View the repository here →](#)
 
-<img src="assets/round-2-garage.svg" alt="Round 2 — Garage" width="100%" />
+<img src="assets/round-2-garage.svg" alt="STARTING GRID" width="100%" />
 
-🏎️ **pRF mapping**
-Population receptive field (pRF) mapping: fitting voxel-wise receptive field models to visual stimulation data to chart the retinotopic organization of the brain.
+🏎️ **Population receptive field mapping**
+Pipeline to perform Population receptive field mapping at 3T: fitting receptive fields to vertex based on the visual stimulation in your 3T scanner to analyze the retinotopic organization of the brain.
 
-[View repository →](#)
+[View the repository here →](#)
 
-<img src="assets/round-3-pitlane.svg" alt="Round 3 — Pit Lane" width="100%" />
+<img src="assets/round-3-pitlane.svg" alt="PIT STOP" width="100%" />
 
-🏎️ **Connective Field modeling**
-Estimating how activity in one visual area predicts activity in another, mapping the cortico-cortical connections between visual field maps.
+🏎️ **Bayesian connective field modeling**
+Pipeline to compute the connective fields across visual areas, predicting how the activitiy in a vertex of the target area predicts the activity of the vertex in a source area, mapping the cortico-cortical connections between visual field maps. 
 
-[View repository →](#)
+[View the repository here →](#)
 
-<img src="assets/round-4-grid.svg" alt="Round 4 — Starting Grid" width="100%" />
+<img src="assets/round-4-grid.svg" alt="SAFETY CAR" width="100%" />
 
-🏎️ **Preprocessing of 7T data**
+🏎️ **Preprocessing of 7T structural and functional MRI at the laminar level**
 Preprocessing pipeline adapted for ultra-high-field (7T) MRI data, handling the extra distortion and SNR challenges that come with high-resolution acquisitions.
 
-[View repository →](#)
+[View the repository here →](#)
 
-<img src="assets/round-5-podium.svg" alt="Round 5 — Podium" width="100%" />
+<img src="assets/round-5-podium.svg" alt="PODIUM" width="100%" />
 
-🏎️ **Connective Field modeling on 7T data**
+🏎️ **Connective field modeling on 7T functional MRI Across layers**
 Connective field modeling applied to 7T data, using the higher spatial resolution to sharpen cortico-cortical mapping estimates.
 
-[View repository →](#)
+[View the repository here →](#)
 
 *(Swap the five `#` placeholders above for your actual repo URLs.)*
 
