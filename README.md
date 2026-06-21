@@ -44,16 +44,12 @@ Connective field modeling applied to 7T data, using the higher spatial resolutio
 
 [View the repository here →](#)
 
-*(Swap the five `#` placeholders above for your actual repo URLs.)*
-
 ---
 
-## About me
+## Reach me
 
-- Currently working on: Connective Field modeling on 7T fMRI data
-- Currently learning: *add a skill/tool you're picking up*
-- Ask me about: pRF mapping, connective field modeling, high-field (7T) fMRI preprocessing
-- Reach me: f.cardillo@umcg.nl
+- email: f.cardillo@umcg.nl
+- linkedin: www.linkedin.com/in/federica-cardillo
 
 ## Tech stack
 
